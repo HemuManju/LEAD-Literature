@@ -1,6 +1,9 @@
-# Literature on Learning Enabled Assisted Driving
+# Literature on Learning Enabled Assistive Driving
 
 ## Learning
+
+1. Leung, Karen, Nikos Aréchiga, and Marco Pavone. ["Back-propagation through signal temporal logic specifications: Infusing logical structure into gradient-based methods."](https://arxiv.org/pdf/2008.00097) In International Workshop on the Algorithmic Foundations of Robotics, pp. 432-449. Springer, Cham, 2021.
+2. Pak, Andrey, Hemanth Manjunatha, Dimitar Filev, and Panagiotis Tsiotras. ["CARNet: A Dynamic Autoencoder for Learning Latent Dynamics in Autonomous Driving Tasks."](https://arxiv.org/pdf/2205.08712) arXiv preprint arXiv:2205.08712 (2022).
 
 ## Inverse Reinforcement Learning
 
